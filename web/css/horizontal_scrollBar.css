@@ -1,0 +1,25 @@
+ .scrollmenu {
+  
+  background-color: #000;
+  width:20px;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+ .scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 30px;
+  text-decoration: none;
+}
+
+ .scrollmenu a:hover { 
+      
+  background-color: #777;
+}
+.hoverScroll a:hover{
+    
+     background-color: red;
+     
+}
